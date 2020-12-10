@@ -28,3 +28,7 @@
 *~
 
 config.h
+
+*.diff
+*.rej
+*.orig
